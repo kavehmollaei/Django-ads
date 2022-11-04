@@ -1,3 +1,11 @@
 line1
 add kaveh mollaei
-\my email is kavehmollaei@gmail.com\
+\my email is kavehmollaei@gmail.com
+
+
+\
+
+
+
+if item in range():
+	print(item)
